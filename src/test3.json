@@ -1,0 +1,17 @@
+
+{
+    "IgnoredFlaws": [
+        {
+            "filename": "test/subLevel/http_2.js",
+            "comments": "",
+            "cweid": 80,
+            "flawhash": 804925330,
+            "flawHashCount": 6,
+            "flawHashOrdinal": 2,
+            "causehash": 2999531497,
+            "causeHashOrdinal": 1,
+            "prototypehash": 983588903,
+            "procedurehash": 2604934623
+        }
+    ]
+}
